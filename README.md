@@ -1,7 +1,7 @@
 # loc
 
 to setup the project input this line in your console
-flutter create .
+```flutter create .```
 
 used packages:
   firebase_auth
