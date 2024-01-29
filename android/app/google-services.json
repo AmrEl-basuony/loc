@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "150001013395",
+    "project_id": "loc-task",
+    "storage_bucket": "loc-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150001013395:android:6f635bfb4e0159c6c67366",
+        "android_client_info": {
+          "package_name": "com.example.loc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrSGI_6E7i1MIiLOozGxKoi8qs3JrDn5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
